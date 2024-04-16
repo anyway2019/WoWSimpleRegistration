@@ -14,9 +14,9 @@ $language['tpl_kaelthas_custom_css'] = '';
 $language['tpl_battleforazeroth_custom_css'] = '';
 
 // Lang changer
-$language['change_lang_head'] = 'Language Changer';
-$language['change_lang_form_head'] = 'Select Language';
-$language['change_lang_sub'] = 'Change';
+$language['change_lang_head'] = '语言';
+$language['change_lang_form_head'] = '选择语言';
+$language['change_lang_sub'] = '改变';
 
 $language['welcome_to'] = '欢迎来到';
 $language['welcome_message'] = '欢迎来到我们的服务器，赶快加入我们吧！';
